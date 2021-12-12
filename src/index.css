@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+h1, h2, h3, h4, h5, h6, p, span, label, aside, a, div, th {
+    font-family: 'Montserrat', sans-serif!important;
+}
